@@ -1,0 +1,35 @@
+# Кэш и временные файлы
+node_modules/
+.cache/
+yarn-error.log
+
+# Скомпилированные файлы
+/build/
+/dist/
+
+# Логи и отчёты об ошибках
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+error.log
+*.log
+
+# Исключение бинарных файлов
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.eot
+*.otf
+*.webp
+*.svg
+*.ttf
+*.woff
+*.woff2
+
+# Исключение конфигурационных файлов
+*.env
+*.eslintrc
+*.prettierrc
+*.stylelintrc
