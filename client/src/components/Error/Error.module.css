@@ -1,0 +1,26 @@
+.error {
+  margin-top: 1.3rem;
+  display: flex;
+  padding: 0.8rem;
+  background-color: #f8d7d9;
+  color: #000709;
+  width: 300px;
+  justify-content: space-around;
+  border-radius: 0.5rem;
+  align-items: center;
+}
+
+.error__button {
+  padding: 0.5rem;
+  background-color: #343a3f;
+  color: #fff;
+  border: 0;
+  outline: none;
+  user-select: none;
+  border-radius: 0.3rem;
+  cursor: pointer;
+}
+
+.error__button:hover {
+  background-color: #000709;
+}
